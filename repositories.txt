@@ -1,3 +1,4 @@
+https://github.com/Subodh-roy2/Modular
 https://github.com/agomezgar/rupertobotLibrary
 https://github.com/ropg/LoRaWAN_ESP32
 https://github.com/NightHawk-Technology/NH8CHIR-lib
@@ -5261,6 +5262,7 @@ https://github.com/salvadorrueda/SerialMP3Player
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Sam4uk/CRSF
 https://github.com/Sam4uk/Password
+https://github.com/Sam4uk/Filter.Easy
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
 https://github.com/Samyz/CESmartCamp
